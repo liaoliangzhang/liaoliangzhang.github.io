@@ -1,4 +1,4 @@
-# Academic website implementation guide
+# Academic website guide
 
 I am grateful to <a href="https://xinyue-lin.com/">Xinyue Lin</a> for creating and <a href="https://gautam-rao.com/">Gautam Rao</a> for sharing.
 
