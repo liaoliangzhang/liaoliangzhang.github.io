@@ -34,7 +34,9 @@ git push -f origin main
 
 Finally, make sure the setting for the YourGitHubName/github.io.git is correct, i.e. using the correct branch to produce the website.
 
-The only thing to run in the future after making edits is:
+## Future edits
+
+You don't have to rerun Hugo again. The only thing to run in the future after making edits in public folder is:
 
 cd public
 
