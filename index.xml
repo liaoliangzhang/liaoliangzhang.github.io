@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Liaoliang Zhang</title>
-    <link>//localhost:60069/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Homepage on Liaoliang Zhang</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:60069/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:60069/sections/aboutme/</link>
+      <link>//localhost:1313/sections/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:60069/sections/aboutme/</guid>
+      <guid>//localhost:1313/sections/aboutme/</guid>
       <description>&lt;p&gt;I am a doctoral student in the &lt;a href=&#34;https://fass.nus.edu.sg/ecs/&#34;&gt;Economics Department&lt;/a&gt; at the National University of Singapore.&lt;/p&gt;&#xA;&lt;p&gt;I am a labor economist working on applied topics related to discrimination, mobility, education, wage setting, marriage, and occupation choices. I use administrative data, scrapped data, and survey data.&lt;/p&gt;&#xA;&lt;p&gt;Together with Cao Jingman and Yang Shuo, I help run the &lt;a href=&#34;https://forms.gle/kxvaKZpsyS5dufBF7&#34;&gt;NUS Applied Economics Student Workshop&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;./pdf/Liaoliang_Zhang_CV_April_2025.pdf&#34;&gt;Curriculum Vitae&lt;/a&gt;&lt;/strong&gt; (Updated April 2025)&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:60069/sections/contact/</link>
+      <link>//localhost:1313/sections/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:60069/sections/contact/</guid>
+      <guid>//localhost:1313/sections/contact/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;liaoliang.zhang@u.nus.edu&#34;&gt;liaoliang.zhang@u.nus.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Office&lt;/strong&gt;:  AS1-01-02, NUS&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:60069/sections/personal/</link>
+      <link>//localhost:1313/sections/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:60069/sections/personal/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;best_yield&#34;&gt;Best Yield&lt;/a&gt; so far for my farming business.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;: I am grateful to &lt;a href=&#34;https://gautam-rao.com/&#34;&gt;Gautam Rao&lt;/a&gt; for sharing this website design. Here is the &lt;a href=&#34;https://github.com/gautamrao/gautamrao.github.io&#34;&gt;GitHub repository&lt;/a&gt;. A short guide to acutally implementing it is coming soon.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <guid>//localhost:1313/sections/personal/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;best_yield.jpg&#34;&gt;Best Yield&lt;/a&gt; so far for my farming business.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;: I am grateful to &lt;a href=&#34;https://gautam-rao.com/&#34;&gt;Gautam Rao&lt;/a&gt; for sharing this website design. Here is the &lt;a href=&#34;https://github.com/gautamrao/gautamrao.github.io&#34;&gt;GitHub repository&lt;/a&gt;. A short guide to acutally implementing it is coming soon.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>

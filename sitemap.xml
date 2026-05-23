@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:60069/sections/aboutme/</loc>
+    <loc>//localhost:1313/sections/aboutme/</loc>
   </url><url>
-    <loc>//localhost:60069/sections/contact/</loc>
+    <loc>//localhost:1313/sections/contact/</loc>
   </url><url>
-    <loc>//localhost:60069/sections/personal/</loc>
+    <loc>//localhost:1313/sections/personal/</loc>
   </url><url>
-    <loc>//localhost:60069/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>//localhost:60069/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>//localhost:60069/sections/</loc>
+    <loc>//localhost:1313/sections/</loc>
   </url><url>
-    <loc>//localhost:60069/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
